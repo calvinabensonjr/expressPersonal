@@ -1,5 +1,5 @@
 var thumbUp = document.getElementsByClassName("fa-heart");
-var trash = document.getElementsByClassName("fa-trash");
+var trash = document.getElementsByClassName("fa-recycle");
 
 Array.from(thumbUp).forEach(function(element) {
       element.addEventListener('click', function(){
