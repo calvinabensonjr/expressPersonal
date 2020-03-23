@@ -1,6 +1,6 @@
 # expressPersonal
 
-## This a complete version of the express 21 Savage page.
+## This an express PowerPuff Girl Forum.
 
 ![pf Photo](images/pfgirlround.png)
 
